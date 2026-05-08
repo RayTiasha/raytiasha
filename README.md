@@ -4,7 +4,7 @@
 - 🌱 Next, I plan to dive into Python, Statistics, and other advanced topics.
 - 👯 I’m eager to collaborate on open‑source data projects or community‑driven visualizations.
 - 🤔 I’m open to guidance on best practices for large‑scale data modeling and optimization.
-- 😄 Fun fact: I think if my life were a chart, it would definitely be a Sankey Diagram, because I love seeing how different paths flow into one outcome!
+- 😄 Fun fact: When it comes to Data Analysis, I Excel!
 
 
 ### 📫 Let's Connect!
