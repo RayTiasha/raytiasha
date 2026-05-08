@@ -1,9 +1,8 @@
 ## Hi there, I'm Tiasha! 👋
 
-- 🔭 I’m currently mastering SQL and refining my data visualization skills with Power BI.
-- 🌱 Next, I plan to dive into Python, Statistics, and other advanced topics.
-- 👯 I’m eager to collaborate on open‑source data projects or community‑driven visualizations.
-- 🤔 I’m open to guidance on best practices for large‑scale data modeling and optimization.
+- 🔭 SQL + Power BI learner turning real datasets into business insights.
+- 🌱 Next, I plan to explore Python and Statistics to deepen my analysis toolkit.
+- 👯 Open to collaborating on large‑scale data projects, dashboards, and visual storytelling.
 - 😄 Fun fact: When it comes to Data Analysis, I Excel!
 
 
