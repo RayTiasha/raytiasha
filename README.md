@@ -1,7 +1,7 @@
 ## Hi there, I'm Tiasha! 👋
 
 - 🔭 Using Excel + SQL + Power BI to analyze data, build dashboards, and deliver business insights.
-Extensive experience in customer-facing enterprise environments, working with operational systems, troubleshooting production issues, and translating technical data into business relevant reporting.
+- Extensive experience in customer-facing enterprise environments, working with operational systems, troubleshooting production issues, and translating technical data into business relevant reporting.
 - 👯 Open to collaboration on data projects, dashboard development, and analytical storytelling.
 
 ### 📫 Let's Connect!
