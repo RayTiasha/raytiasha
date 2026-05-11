@@ -1,7 +1,6 @@
 ## Hi there, I'm Tiasha! 👋
 
-- 🔭 Prod2Analytics Journey | Production Support → Data Analyst (Advanced Excel + SQL + Power BI).
-I turn messy datasets into business insights.
+- 🔭 Using Excel + SQL + Power BI and extensive customer-facing skills from Production Support to drive business decisions in Data Analytics.
 - 👯 Open to: Data projects, dashboard building, visual storytelling.
 - 😄 Fun fact: When it comes to Data Analysis, I Excel!
 
