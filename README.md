@@ -1,8 +1,8 @@
 ## Hi there, I'm Tiasha! 👋
 
-- 🔭 SQL + Power BI learner turning real datasets into business insights.
-- 🌱 Next, I plan to explore Python and Statistics to deepen my analysis toolkit.
-- 👯 Open to collaborating on large‑scale data projects, dashboards, and visual storytelling.
+- 🔭 Prod2Analytics Journey | Production Support → Data Analyst (Advanced Excel + SQL + Power BI).
+I turn messy datasets into business insights.
+- 👯 Open to: Data projects, dashboard building, visual storytelling.
 - 😄 Fun fact: When it comes to Data Analysis, I Excel!
 
 
