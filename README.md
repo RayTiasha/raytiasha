@@ -7,9 +7,9 @@
 ### 📊 Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/power-bi.png" width="50" height="50" alt="Power BI" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft-excel.png" width="50" height="50" alt="Excel" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
 </p>
 
 ### 📫 Let's Connect!
