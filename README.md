@@ -7,13 +7,7 @@
 ### 📊 Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40" alt="Excel" />
-</p>
-
-<p align="left">
-  <img src="https://simpleicons.org/icons/powerbi.svg" width="50" height="50" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" alt="Power BI" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
 </p>
