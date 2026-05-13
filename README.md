@@ -6,10 +6,12 @@
 
 ### 📊 Languages and Tools
 
+## 📊 Languages and Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=powerbi,mysql,excel,python,tableau" />
+  </a>
 </p>
 
 ### 📫 Let's Connect!
