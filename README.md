@@ -7,7 +7,9 @@
 ### 📊 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,mysql,excel" alt="PowerBI, SQL, Excel" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/power-bi.png" width="50" height="50" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft-excel.png" width="50" height="50" alt="Excel" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" alt="SQL" />
 </p>
 
 ### 📫 Let's Connect!
