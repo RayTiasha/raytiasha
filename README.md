@@ -6,12 +6,8 @@
 
 ### 📊 Languages and Tools
 
-## 📊 Languages and Tools
-
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=powerbi,mysql,excel,python,tableau" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=powerbi,mysql,excel" alt="PowerBI, SQL, Excel" />
 </p>
 
 ### 📫 Let's Connect!
