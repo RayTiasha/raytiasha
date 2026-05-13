@@ -7,7 +7,7 @@
 ### 📊 Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="[https://vecta.io/symbols/28/microsoft-azure-color/61/sql-database-generic] alt="SQL" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </p>
