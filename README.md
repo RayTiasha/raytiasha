@@ -3,10 +3,8 @@
 
 You can find some of my work below.
 
-### 📊 Languages and Tools
-
 <p align="left">
-  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="45" height="45" alt="Power BI" />
+  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="30" height="30" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
 </p>
