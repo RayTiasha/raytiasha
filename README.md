@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-- 🔭 I am a Data Analytics professional focused on delivering actionable business insights through data-driven analysis and reporting.
+- I am a Data Analytics professional focused on delivering actionable business insights through data-driven analysis and reporting.
 - I have extensive experience working in customer-facing enterprise environments, managing operational systems, resolving production issues, and converting technical data into clear, business-relevant reporting for stakeholders.
 - I add value by helping businesses make informed decisions faster, improving operational visibility, identifying process gaps, and turning complex datasets into clear insights that support growth and efficiency.
 
