@@ -9,4 +9,4 @@
 
 *“Data is the new oil, but it’s only useful if you know how to refine it.”*
 
-You can view some of my work below.
+- You can view some of my work below.
