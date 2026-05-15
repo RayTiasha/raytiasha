@@ -1,5 +1,5 @@
-- I am a Data Analyst with extensive experience in customer-facing enterprise environments, operational systems management, production issue resolution, and transforming complex technical data into clear, business-focused reporting for stakeholders.
-- I add value by helping businesses make informed decisions faster, improving operational visibility, identifying process gaps, and turning complex datasets into clear insights that support growth and efficiency.
+- I am a Data Analyst with extensive experience in enterprise operations and application support, experienced in KPI reporting, production issue resolution, stakeholder coordination, and business-focused reporting for stakeholders.
+- I add value by helping businesses make data-informed decisions by improving operational visibility, identifying process gaps, and turning complex datasets into actionable reporting that supports growth and efficiency.
 
 <p align="left">
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="35" height="30" alt="Power BI" />
