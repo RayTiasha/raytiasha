@@ -1,4 +1,4 @@
-- I am a Data Analyst with extensive experience in enterprise operations and application support, experienced in KPI reporting, production issue resolution, stakeholder coordination, and business-focused reporting for stakeholders.
+- I am a Data Analyst with extensive experience in operational reporting, production issue resolution, and stakeholder coordination in enterprise environments.
 - I add value by helping businesses make data-informed decisions by improving operational visibility, identifying process gaps, and turning complex datasets into actionable reporting that supports growth and efficiency.
 
 <p align="left">
