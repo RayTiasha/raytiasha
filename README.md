@@ -1,4 +1,4 @@
-- Analyst with experience in IT Operations & Application Support with enterprise experience in production environments.
+- Analyst with experience in IT Operations & Application Support in enterprise production environments.
 - Strong focus on operational reporting, KPI tracking, incident analysis, root cause analysis, and service performance trends.
 
 <p align="left">
