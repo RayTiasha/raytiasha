@@ -14,3 +14,9 @@
 </p>
 
 *“Data is the new oil, but it’s only useful if you know how to refine it.”*
+
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraytiasha&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Hits Counter"/>
+</p>
+
+![Profile Views](https://komarev.com/badge://gh/profile-counter/?username=raytiasha&color=blue)
