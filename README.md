@@ -20,3 +20,6 @@
 </p>
 
 ![Profile Views](https://komarev.com/badge://gh/profile-counter/?username=raytiasha&color=blue)
+<p align="left">
+  <img src="https://komarev.com/badge://gh/profile-counter/?username=raytiasha&color=blue" alt="Profile Views" />
+</p>
