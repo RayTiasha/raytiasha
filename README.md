@@ -2,10 +2,11 @@
   A little more about me...
 </h2>
 
-I have a background in IT Operations and Application Support, where I helped business teams maintain confidence in operational data and reporting by identifying, investigating, and resolving system and data issues that affect planning and decision-making. <br> Data Analytics cane as a natural extension to my role, as I truly enjoy investigating systems and datasets to provide operational clarity to business stakeholders.
+- I have a background in IT Operations and Application Support, where I helped business teams maintain confidence in operational data and reporting by identifying, investigating, and resolving system and data issues that affected planning and decision-making.
+- Data Analytics became a natural extension of my role, as I genuinely enjoy investigating systems and datasets to deliver operational clarity and actionable insights to business stakeholders.
 
 ## Portfolio
-Welcome to my portfolio, where I showcase [my projects](https://raytiasha.github.io/Portfolio/).
+You can view my prtfolio [here](https://raytiasha.github.io/Portfolio/), where I showcase my projects.
 
 ## Tools & Technologies
 <p align="left">
