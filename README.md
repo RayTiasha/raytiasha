@@ -10,8 +10,6 @@ Data Analytics became a natural extension of my role, as I genuinely enjoy inves
 If you'd like to see some examples of analytical work, you can find them [here](https://raytiasha.github.io/Portfolio/).
 
 ## Tools
-Language: SQL
-Database: MySQL
+Language: SQL<br>
+Database: MySQL<br>
 Visualization: Power BI
-
-*“Data is the new oil, but it’s only useful if you know how to refine it.”*
