@@ -1,6 +1,6 @@
 <h2 align="left">
   A little more about me... 
-  <img src="<img width="765" height="501" alt="image" src="https://github.com/user-attachments/assets/da24cbde-fbb6-4127-b5b6-88eb6da0a352"/>" width="35" style="vertical-align: middle; margin-left: 10px;" alt="Coding Animation">
+  <img src="https://github.com/user-attachments/assets/da24cbde-fbb6-4127-b5b6-88eb6da0a352"/>" width="35" style="vertical-align: middle; margin-left: 10px;" alt="Coding Animation">
 </h2>
 
 - Analyst with experience in IT Operations & Application Support in enterprise production environments.
