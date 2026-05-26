@@ -1,7 +1,7 @@
 <h2 align="left">
   A little more about me... 
   <img src="https://github.com/user-attachments/assets/da24cbde-fbb6-4127-b5b6-88eb6da0a352"
-    width="30" style="vertical-align: middle; margin-left: 8px;" alt="Coding Animation"/>"
+    width="80" style="vertical-align: middle; margin-left: 8px;" alt="Coding Animation"/>"
 </h2>
 
 - Analyst with experience in IT Operations & Application Support in enterprise production environments.
