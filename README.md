@@ -1,7 +1,7 @@
 <h2 align="left">
   A little more about me...
   <img src="https://github.com/user-attachments/assets/da24cbde-fbb6-4127-b5b6-88eb6da0a352"
-    width="100" style="vertical-align: text-bottom; margin-bottom: -15px; margin-left: 8px;" alt="Coding Animation"/>
+    width="120" style="vertical-align: text-bottom; margin-bottom: -15px; margin-left: 8px;" alt="Coding Animation"/>
 </h2>
 
 I have a background in IT Operations and Application Support, and I truly enjoy using data analysis to investigate systems and datasets to provide operational clarity to business stakeholders.
