@@ -9,7 +9,7 @@ Hello, I'm Tiasha, a naturally inquisitive, tool-agnostic, outcome-obsessed data
 ##
 You can view my portfolio [here](https://raytiasha.github.io/Portfolio/), where I showcase my projects.
 
-## Tools & Technologies
+##
 <p align="left">
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="35" height="30" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="35" height="30" alt="Excel" />
