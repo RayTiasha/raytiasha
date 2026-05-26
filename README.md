@@ -7,7 +7,7 @@ I have a background in IT Operations and Application Support, where I helped bus
 Over time, Data Analytics became a natural extension of my role, as I found myself increasingly drawn to investigating systems, analyzing datasets and delivering insights that improved operational clarity for business stakeholders.
 
 ##
-If you'd like to see some examples of analytical work, you can find them [here](https://github.com/raytiasha/My-Portfolio/blob/main/README.md).
+If you'd like to see some examples of analytical work, you can find them [here](https://github.com/raytiasha/My-Portfolio).
 
 ## Tools
 Language: SQL<br>
