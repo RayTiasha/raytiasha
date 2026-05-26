@@ -3,7 +3,7 @@
 </h2>
 Hello, I'm Tiasha, a naturally inquisitive, tool-agnostic, outcome-obsessed data analyst.
 <br><br>
-- I have a background in IT Operations and Application Support, where I helped business teams maintain confidence in operational data and reporting by identifying, investigating, and resolving system and data issues that affected planning and decision-making.
+- I have a background in IT Operations and Application Support, where I helped business teams maintain confidence in operational data and reporting by identifying, investigating, and resolving system and data issues that affected planning and decision-making.<br>
 - Data Analytics became a natural extension of my role, as I genuinely enjoy investigating systems and datasets to deliver operational clarity and actionable insights to business stakeholders.
 
 ## Portfolio
