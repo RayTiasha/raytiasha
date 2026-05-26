@@ -4,11 +4,9 @@
     width="100" style="vertical-align: text-bottom; margin-bottom: -15px; margin-left: 8px;" alt="Coding Animation"/>
 </h2>
 
-Hello! <br>
-I am a Data Analyst, with a background in IT Operations & Application Support.
+I have a background in IT Operations and Application Support, and I truly enjoy using data analysis to investigate systems and datasets to provide operational clarity to business stakeholders.
 
-Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase [my projects](https://raytiasha.github.io/Portfolio/).
 
 <p align="left">
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="35" height="30" alt="Power BI" />
