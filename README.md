@@ -8,8 +8,3 @@ Over time, Data Analytics became a natural extension of my role, as I found myse
 
 ##
 If you'd like to see some examples of analytical work, you can find them [here](https://github.com/raytiasha/My-Portfolio).
-
-## Tools
-Language: SQL<br>
-Database: MySQL<br>
-Visualization: Power BI
